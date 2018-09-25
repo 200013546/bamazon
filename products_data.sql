@@ -1,0 +1,14 @@
+INSERT INTO `products` (`item_id`,`product_name`,`price`,`stock_quantity`,`product_sales`,`department_id`) VALUES (1,'Bacon Floss',5.58,91,50.22,6);
+INSERT INTO `products` (`item_id`,`product_name`,`price`,`stock_quantity`,`product_sales`,`department_id`) VALUES (2,'Pizza Scissors',8.99,4,233.74,5);
+INSERT INTO `products` (`item_id`,`product_name`,`price`,`stock_quantity`,`product_sales`,`department_id`) VALUES (3,'Unicorn Meat',12.99,23,64.95,3);
+INSERT INTO `products` (`item_id`,`product_name`,`price`,`stock_quantity`,`product_sales`,`department_id`) VALUES (4,'Uranium Ore',39.95,53,1877.65,3);
+INSERT INTO `products` (`item_id`,`product_name`,`price`,`stock_quantity`,`product_sales`,`department_id`) VALUES (5,'Ninja Coat Hook',14.99,100,0.00,3);
+INSERT INTO `products` (`item_id`,`product_name`,`price`,`stock_quantity`,`product_sales`,`department_id`) VALUES (6,'Portable Ice Rink',179.99,100,719.96,4);
+INSERT INTO `products` (`item_id`,`product_name`,`price`,`stock_quantity`,`product_sales`,`department_id`) VALUES (7,'How to Avoid Huge Ships Paperback',12.99,50,64.95,7);
+INSERT INTO `products` (`item_id`,`product_name`,`price`,`stock_quantity`,`product_sales`,`department_id`) VALUES (8,'Hutzler 571 Banana Slicer',4.36,43,26.16,5);
+INSERT INTO `products` (`item_id`,`product_name`,`price`,`stock_quantity`,`product_sales`,`department_id`) VALUES (9,'Gift of Nothing',6.95,3,0.00,3);
+INSERT INTO `products` (`item_id`,`product_name`,`price`,`stock_quantity`,`product_sales`,`department_id`) VALUES (10,'Three Wolves Shirt',23.99,4,1103.54,2);
+INSERT INTO `products` (`item_id`,`product_name`,`price`,`stock_quantity`,`product_sales`,`department_id`) VALUES (11,'Four Wolves Shirt',23.99,69,1271.47,2);
+INSERT INTO `products` (`item_id`,`product_name`,`price`,`stock_quantity`,`product_sales`,`department_id`) VALUES (12,'TV Monitor',199.99,65,1199.94,1);
+INSERT INTO `products` (`item_id`,`product_name`,`price`,`stock_quantity`,`product_sales`,`department_id`) VALUES (13,'Black and white Rubiks cube',9.99,18,819.18,4);
+INSERT INTO `products` (`item_id`,`product_name`,`price`,`stock_quantity`,`product_sales`,`department_id`) VALUES (14,'Coffee Table book',34.43,34,0.00,7);
